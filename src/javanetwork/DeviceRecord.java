@@ -7,7 +7,7 @@
 
  */
 package javanetwork;
-
+//
 public class DeviceRecord {
 
     // refactor, encapsulate fields

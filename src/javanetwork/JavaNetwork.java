@@ -44,9 +44,7 @@ public class JavaNetwork
         switchComeOnline();
         
         DeviceController.DisplayNetworkInfo();
-        
-        
-          
+             
 //          switchComeOnline();
 //          serversComeOnline();
 
